@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPgsnhF.jpg"},
+  {"desc2":"Minecraft mods are customizations created by the game's community, offering players new content, features, and experiences beyond the base game","photo2":"https://iili.io/HPgsoLg.jpg"},
+  {"desc3":" These mods range from simple texture changes to extensive gameplay alterations. Mods can introduce new blocks, items","photo3":"https://iili.io/HPgUNfV.jpg"},
+  {"desc4":"creatures, and mechanics, enhancing the game's longevity and variety. With a wide range of mods available, players can tailor their Minecraft experience to suit their preferences.","photo4":"https://iili.io/HPgUVDb.jpg"},
+  {"desc5":"Mod Skibidi Toilet 2 is a unique and quirky addition to Minecraft. Created by a dedicated modding team, it introduces functional toilets into the game","photo5":"https://iili.io/HPgSLAu.jpg"},
+  {"descd":" allowing players to simulate bathroom activities within their virtual world. The mod offers a range of toilet types","photod":"https://iili.io/HPgUhWx.jpg"}
    ]
  
 }
